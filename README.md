@@ -5,10 +5,10 @@
 - Form Validation
 - ARIA Labels
 ## git command used in this lab
-git status
-git add .
-git commit m ""
-git push
-git checkout -b 
-git merge
-git push origin development
+- git status
+- git add .
+- git commit m ""
+- git push
+- git checkout -b 
+- git merge
+- git push origin development
